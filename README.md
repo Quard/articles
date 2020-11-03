@@ -1,3 +1,4 @@
+* [Managing CV with help of LaTeX and GitHub](managing-cv-with-help-of-latex-and-github/README.md)
 * [My Story with Go, Python, and Benchmarks](my-story-with-golang/README.md)
 * [How to build your own blockchain for a financial product](how-to-build-your-own-blockchain-for-a-financial-product/README.md)
 * [Debugging Python Applications with pdb](debugging-python-applications-with-pdb/README.md)
